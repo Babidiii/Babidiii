@@ -1,19 +1,15 @@
 ### Hi there 👋,
-### I'm Babidiii
 <!--<img align="center"  width="300" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXIqCQx02E1U9W%2Fgiphy.gif&f=1&nofb=1" />-->
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=babidiii.babidiii"/>
-<img src="https://img.shields.io/github/followers/Babidiii?label=follow&style=social"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=babidiii.babidiii"/>
+  <img src="https://img.shields.io/github/followers/Babidiii?label=follow&style=social"/>
 </p>
-  
 
 <a href="https://portfolio.bilal-g.now.sh/">
-<img align="right"  width="400" alt="me" src="./me.png" />
+  <img align="right"  width="400" alt="me" src="./me.png" />
 </a>
   
----
-
 ```javascript
 class Babidiii {
     static instance;
@@ -39,6 +35,7 @@ class Babidiii {
 const me = new Babidiii();
 me.fullstackFullstock();
 ```
+
 ---
 
 <p align="center">
