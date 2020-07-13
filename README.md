@@ -7,7 +7,7 @@
 </p>
 
 <a href="https://portfolio.bilal-g.now.sh/">
-  <img align="right"  width="400" alt="me" src="./me.png" />
+  <img align="right"  width="400" alt="me" src="https://github.com/babidiii/babidiii/blob/master/me.png" />
 </a>
   
 ```javascript
