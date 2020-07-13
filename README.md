@@ -1,10 +1,19 @@
 ### Hi there 👋
+<img align="center"  width="300" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXIqCQx02E1U9W%2Fgiphy.gif&f=1&nofb=1" />
+
+![](https://visitor-badge.glitch.me/badge?page_id=babidiii.babidiii)
+[![GitHub Babidiii](https://img.shields.io/github/followers/Babidiii?label=follow&style=social)](https://github.com/Babidiii)
+
+
+```sh
+$babidiii:~$ echo $STUDY
+
+```
 
 <!--
 **Babidiii/Babidiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
