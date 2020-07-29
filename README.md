@@ -2,7 +2,7 @@
 <!--<img align="center"  width="300" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXIqCQx02E1U9W%2Fgiphy.gif&f=1&nofb=1" />-->
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=babidiii.babidiii"/>
+ <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Babidiii.Babidiii"/> -->
   <img src="https://img.shields.io/github/followers/Babidiii?label=follow&style=social"/>
 </p>
 
@@ -23,7 +23,6 @@ class Babidiii {
     }
 
     fullStackFullStock = () =>{
-        let i=0;
         while(true){
           this.code(this.skills);
           this.workout();
