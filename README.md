@@ -39,7 +39,6 @@ me.fullstackFullstock();
 
 <p align="center">
   <samp>
-     :notebook: Currently working on an Nest Api <br>
     :email:	bilal.guillaumie@gmail.com <br>
     :briefcase: LinkedIn: www.linkedin.com/in/bilal-guillaumie-104069187 <br>
     :art: Portfolio: https://portfolio.bilal-g.now.sh/ </br>
