@@ -2,7 +2,7 @@
 <!--<img align="center"  width="300" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXIqCQx02E1U9W%2Fgiphy.gif&f=1&nofb=1" />-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babidiii&show_icons=true&theme=monokai&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=babidiii&theme=monokai&count_private=true&show_icons=false"/>
 </p>
 
 <a href="https://portfolio.bilal-g.now.sh/">
