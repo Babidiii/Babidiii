@@ -21,30 +21,30 @@
   ;;.]^                 ,jr                        
       -*>^''.``      ;PqB                          
           ,@'6Svc|?||, va`                         
-┌──┬──────────────────────────────────────────────┐ ┌─────────┬───────────────────────────────────────────────┐
-│1 │package main                                  │ │Email    │ bilal.guillaumie@gmail.com                    │
-│2 │                                              │ ├─────────┼───────────────────────────────────────────────┤
-│3 │import (                                      │ │LinkedIn │ www.linkedin.com/in/bilal-guillaumie-104069187│
-│4 │  "work"                                      │ ├─────────┼───────────────────────────────────────────────┤
-│5 │  "rest"                                      │ │Portfolio│ https://babidiii.github.io/bash-website/      │
-│6 │  "time"                                      │ |         |───────────────────────────────────────────────|
-│7 │  "math/rand"                                 │ │         │ https://portfolio.bilal-g.now.sh/             │
-│8 │)                                             │ └─────────┴───────────────────────────────────────────────┘
-│9 │                                              │ ┌─────────────────────────────────────────────────────────┐
-│10│func FullStackFullStock() {                   │ │  Text to add here                                       │
-│11│  while true {                                │ │                                                         │
-│12│    rest.Eat()                                │ │                                                         │
-│13│    work.Code(rand.Intn(4) * time.Hour)       │ │                                                         │
-│14│    rest.Eat()                                │ │                                                         │
-│15│    work.Code(rand.Intn(4) * time.Hour)       │ │                                                         │
-│16│    rest.Eat()                                │ │                                                         │
-│17│    rest.Pause(rand.Intn(60) * time.Minute)   │ │                                                         │
-│18│    work.Bodybuilding()                       │ │                                                         │
-│19│    rest.Eat()                                │ │                                                         │
-│20│    rest.Sleep(8 * time.Hour)                 │ │                                                         │
-│21│  }                                           │ │                                                         │
-│22│}                                             │ │                                                         │
-└──┴──────────────────────────────────────────────┘ └─────────────────────────────────────────────────────────┘
+┌──┬────────────────────────────────────────────┐ ┌─────────┬───────────────────────────────────────────────┐
+│1 │package main                                │ │Email    │ bilal.guillaumie@gmail.com                    │
+│2 │                                            │ ├─────────┼───────────────────────────────────────────────┤
+│3 │import (                                    │ │LinkedIn │ www.linkedin.com/in/bilal-guillaumie-104069187│
+│4 │  "work"                                    │ ├─────────┼───────────────────────────────────────────────┤
+│5 │  "rest"                                    │ │Portfolio│ https://babidiii.github.io/bash-website/      │
+│6 │  "time"                                    │ |         |───────────────────────────────────────────────|
+│7 │  "math/rand"                               │ │         │ https://portfolio.bilal-g.now.sh/             │
+│8 │)                                           │ └─────────┴───────────────────────────────────────────────┘
+│9 │                                            │ ┌─────────────────────────────────────────────────────────┐
+│10│func FullStackFullStock() {                 │ │  Text to add here                                       │
+│11│  while true {                              │ │                                                         │
+│12│    rest.Eat()                              │ │                                                         │
+│13│    work.Code(rand.Intn(4) * time.Hour)     │ │                                                         │
+│14│    rest.Eat()                              │ │                                                         │
+│15│    work.Code(rand.Intn(4) * time.Hour)     │ │                                                         │
+│16│    rest.Eat()                              │ │                                                         │
+│17│    rest.Pause(rand.Intn(60) * time.Minute) │ │                                                         │
+│18│    work.Bodybuilding()                     │ │                                                         │
+│19│    rest.Eat()                              │ │                                                         │
+│20│    rest.Sleep(8 * time.Hour)               │ │                                                         │
+│21│  }                                         │ │                                                         │
+│22│}                                           │ │                                                         │
+└──┴────────────────────────────────────────────┘ └─────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
