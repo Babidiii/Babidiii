@@ -6,7 +6,7 @@
 </p>
 <!--<img align="center"  width="300" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXIqCQx02E1U9W%2Fgiphy.gif&f=1&nofb=1" />-->
 
-```go                                                  
+<pre>
                      rvi`                          
          `"    :;^rLuk>Qe-                         
         ~a,*X;;`  |}x\\^-"|Lmvzj$-                 
@@ -29,11 +29,11 @@
  ┌──┬────────────────────────────────────────────┐  ┌─────────┬───────────────────────────────────────────────┐
  │1 │package main                                │  │Email    │ bilal.guillaumie@gmail.com                    │
  │2 │                                            │  ├─────────┼───────────────────────────────────────────────┤
- │3 │import (                                    │  │LinkedIn │ www.linkedin.com/in/bilal-guillaumie-104069187│
+ │3 │import (                                    │  │LinkedIn │ <a href="www.linkedin.com/in/bilal-guillaumie-104069187">www.linkedin.com/in/bilal-guillaumie-104069187</a>│
  │4 │  "work"                                    │  ├─────────┼───────────────────────────────────────────────┤
- │5 │  "rest"                                    │  │Portfolio│ https://babidiii.github.io/bash-website/      │
+ │5 │  "rest"                                    │  │Portfolio│ <a href="https://babidiii.github.io/bash-website/">https://babidiii.github.io/bash-website/</a>      │
  │6 │  "time"                                    │  |         |───────────────────────────────────────────────|
- │7 │  "math/rand"                               │  │         │ https://portfolio.bilal-g.now.sh/             │
+ │7 │  "math/rand"                               │  │         │ <a href="https://portfolio.bilal-g.now.sh/">https://portfolio.bilal-g.now.sh/</a>             │
  │8 │)                                           │  └─────────┴───────────────────────────────────────────────┘
  │9 │                                            │  ┌─────────────────────────────────────────────────────────┐
  │10│func FullStackFullStock() {                 │  │  Text to add here                                       │
@@ -50,7 +50,7 @@
  │21│  }                                         │  │                                                         │
  │22│}                                           │  │                                                         │
  └──┴────────────────────────────────────────────┘  └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=babidiii&theme=monokai&count_private=true&show_icons=false"/>
