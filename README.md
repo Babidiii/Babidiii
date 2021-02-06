@@ -10,7 +10,7 @@
 +---------+-----------------------------------------------+
 |LinkedIn | <a href="www.linkedin.com/in/bilal-guillaumie-104069187">www.linkedin.com/in/bilal-guillaumie-104069187</a>|
 +---------+-----------------------------------------------+
-|Portfolio| <a href="bgll.fullstackfullstock.com">bgll.fullstackfullstock.com/</a>                  |
+|Portfolio| <a href="http://bgll.fullstackfullstock.com">bgll.fullstackfullstock.com</a>                  |
 |         |-----------------------------------------------|
 |         | <a href="https://portfolio.bilal-g.now.sh/">https://portfolio.bilal-g.now.sh/</a>             |
 +---------+-----------------------------------------------+
