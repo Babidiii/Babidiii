@@ -1,23 +1,9 @@
-### Hi there 👋,
+
+
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Babidiii?label=follow&style=social"/>
+  <img align="center"  alt="me" src="https://github.com/babidiii/babidiii/blob/master/babidiii-card.png" />
 </p>
-
-<div align="center">
-
-| Portfolio                                                                    |
-|------------------------------------------------------------------------------|
-| <a href="http://bgll.fullstackfullstock.com">bgll.fullstackfullstock.com</a> |
-  
-</div>
-
-
-
-<a href="http://bgll.fullstackfullstock.com">
-  <img align="right"  width="400" alt="me" src="https://github.com/babidiii/babidiii/blob/master/me.png" />
-</a>
-
   
 ```go
 package main                                
@@ -43,6 +29,18 @@ func FullStHackFullStock() {
   }                                         
 }                                           
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Babidiii?label=follow&style=social"/>
+</p>
+
+<div align="center">
+
+| Portfolio                                                                    |
+|------------------------------------------------------------------------------|
+| <a href="http://bgll.fullstackfullstock.com">bgll.fullstackfullstock.com</a> |
+  
+</div>
 
 <div align="center">
   
