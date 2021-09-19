@@ -3,7 +3,9 @@
 
 <p align="center">
   <img align="center"  alt="me" src="https://github.com/babidiii/babidiii/blob/master/babidiii-card.gif" />
+  <img align="center"  alt="desc" src="https://github.com/babidiii/babidiii/blob/master/babidiii-code.gif" />
 </p>
+
   
 ```go
 package main                                
