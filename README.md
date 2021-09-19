@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img align="center"  alt="me" src="https://github.com/babidiii/babidiii/blob/master/babidiii-card.png" />
+  <img align="center"  alt="me" src="https://github.com/babidiii/babidiii/blob/master/babidiii-card.gif" />
 </p>
   
 ```go
