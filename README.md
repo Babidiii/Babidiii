@@ -9,9 +9,6 @@
 </p>
 
 <div align="center">
- <a href="https://bgll.fullstackfullstock.com/">
-  <img alt="portfolio" src="button-portfolio.png" />
- </a>
  <a href="https://fullstackfullnotes.vercel.app/">  
   <img  alt="notes" src="button-notes.png" />
  </a>
